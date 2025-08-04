@@ -3,7 +3,7 @@
 import PackageDescription
 
 let package = Package(
-  name: "LibXray",
+  name: "FubbleTunnel",
   platforms: [.iOS(.v15), .macOS(.v13)],
   products: [
     .library(name: "FubbleTunnel", targets: ["FubbleTunnel"])
