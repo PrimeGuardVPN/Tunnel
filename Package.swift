@@ -11,8 +11,8 @@ let package = Package(
   targets: [
     .binaryTarget(
       name: "FubbleTunnel",
-      url: "https://github.com/PrimeGuardVPN/Tunnel/releases/download/v25.4.13/FubbleTunnel.xcframework.zip",
-      checksum: "28058796b5ac6143ab586bbe1d44365469c3e3b62ed7df371200d893369d4add"
+      url: "https://github.com/PrimeGuardVPN/Tunnel/releases/download/v25.4.15/FubbleTunnel.xcframework.zip",
+      checksum: "1466fb4871b72111cf5c14d2791fc7e34a001e1caf4b0819af922285f49678a3"
     )
   ]
 )
